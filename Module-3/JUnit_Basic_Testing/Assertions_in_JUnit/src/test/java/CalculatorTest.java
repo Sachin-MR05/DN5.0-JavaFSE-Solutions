@@ -12,13 +12,13 @@ public class CalculatorTest {
 
         assertEquals(30, result); 
         
-        assertTrue(50 > result); 
+        assertTrue(result > 0); 
  
-        assertFalse(50 < result); 
+        assertFalse(result < 0); 
  
         assertNull(null); 
 
-        assertNotNull(20);
+        assertNotNull(calculator);
     }
     @Test
     public void testSub() {
