@@ -1,4 +1,4 @@
-package Week__1.Week_1.SingletonPatternExample.src.com.singleton;
+package com.singleton;
 
 public class Logger {
 	private static Logger instance;
