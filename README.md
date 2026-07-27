@@ -6,14 +6,27 @@
 
 ---
 
+## 📋 Synopsis
+
+| Week | Module(s) | Topics |
+|------|-----------|--------|
+| **[Week 1](#week-1)** | Modules 1–4 | Design Patterns, Data Structures & Algorithms, PL/SQL, TDD & Logging |
+| **[Week 2](#week-2)** | Modules 5–6 | Spring Core with Maven, Spring Data JPA with HyperNet |
+| **[Week 3](#week-3)** | Module 7 | Spring REST |
+| **[Week 4](#week-4)** | Module 8 | Microservices |
+| **[Week 5](#week-5)** | Module 9 | React |
+| **[Week 6](#week-6)** | Module 10 | Git |
+
+---
+
 ## Week 1
 
 ### Module 1 — Design Patterns and Principles
 
 | # | Exercise | Output |
 |---|----------|--------|
-| 1 | **Singleton Pattern** — [Logger.java](Module-1/Design%20Patterns%20and%20Principles/SingletonPatternExample/src/com/singleton/Logger.java) | — |
-| 2 | **Factory Method Pattern** — [DocumentFactory.java](Module-1/Design%20Patterns%20and%20Principles/FactoryMethodPatternExample/src/com/Factory/DocumentFactory.java) | — |
+| 1 | **Singleton Pattern** — [Logger.java](Module-1/Design%20Patterns%20and%20Principles/SingletonPatternExample/src/com/singleton/Logger.java) | ![Output](Module-1/Design%20Patterns%20and%20Principles/SingletonPatternExample/src/OutPut.png) |
+| 2 | **Factory Method Pattern** — [DocumentFactory.java](Module-1/Design%20Patterns%20and%20Principles/FactoryMethodPatternExample/src/com/Factory/DocumentFactory.java) | ![Output](Module-1/Design%20Patterns%20and%20Principles/FactoryMethodPatternExample/src/OutPut.png) |
 | 3 | **Builder Pattern** — [Computer.java](Module-1/Design%20Patterns%20and%20Principles/BuilderPatternExample/src/com/Builder/Computer.java) | ![Output](Module-1/Design%20Patterns%20and%20Principles/BuilderPatternExample/src/Output.png) |
 | 4 | **Adapter Pattern** — [PaymentProcessor.java](Module-1/Design%20Patterns%20and%20Principles/AdapterPatternExample/src/com/Adapter/PaymentProcessor.java) | ![Output](Module-1/Design%20Patterns%20and%20Principles/AdapterPatternExample/src/Output.png) |
 | 5 | **Decorator Pattern** — [NotifierDecorator.java](Module-1/Design%20Patterns%20and%20Principles/DecoratorPatternExample/src/com/Decorator/NotifierDecorator.java) | ![Output](Module-1/Design%20Patterns%20and%20Principles/DecoratorPatternExample/src/Output.png) |
@@ -97,7 +110,8 @@
 | 1 | **Handson 1** — Country CRUD (Spring Data JPA) | ![Output](Module-6/Exercise-1/Handson-1/Output.png) |
 | 2 | **Handson 5** — Country Service Implementation | ![Output](Module-6/Exercise-1/Handson-5/Output.png) |
 | 3 | **Handson 6** — Find Country with Exception Handling | ![Output](Module-6/Exercise-1/Handson-6/Output.png) |
-
+| 4 | **Handson 7** — Add Country | — |
+| 5 | **Exercise 2** — Additional JPA exercises | — |
 
 ---
 
@@ -140,9 +154,9 @@
 | 5 | **React Handson 5** — Cohort Tracker App — [src](Module-9%20--React/5.React-Handson-5/cohorttracker/) | ![Output](Module-9%20--React/5.React-Handson-5/Output.png) |
 | 6 | **React Handson 9** — Cricket App — [src](Module-9%20--React/9.React-Handson-9/cricketapp/) | ![Output](Module-9%20--React/9.React-Handson-9/OUTPUT.png) |
 | 7 | **React Handson 10** — Office Space Rental App — [src](Module-9%20--React/10%20.React-Handson-10/officespacerentalapp/) | ![Output](Module-9%20--React/10%20.React-Handson-10/Output.png) |
-| 8 | **React Handson 11** — Event Examples App — [src](Module-9%20--React/11.React-Handson-11/eventexamplesapp/) | ![Output 1](Module-9%20--React/11.React-Handson-11/Output1.png) / ![Output 2](Module-9%20--React/11.React-Handson-11/Output2.png) |
-| 9 | **React Handson 12** — Ticket Booking App — [src](Module-9%20--React/12.React-Handson-12/ticketbookingapp/) | ![Output 1](Module-9%20--React/12.React-Handson-12/OutPut1.png) / ![Output 2](Module-9%20--React/12.React-Handson-12/OutPut2.png) |
-| 10 | **React Handson 13** — Blogger App — [src](Module-9%20--React/13.React-Handson-13/bloggerapp/) | ![Output 1](Module-9%20--React/13.React-Handson-13/Output1.png) / ![Output 2](Module-9%20--React/13.React-Handson-13/OutPut2.png) |
+| 8 | **React Handson 11** — Event Examples App — [src](Module-9%20--React/11.React-Handson-11/eventexamplesapp/) | ![Output 1](Module-9%20--React/11.React-Handson-11/Output1.png)  |
+| 9 | **React Handson 12** — Ticket Booking App — [src](Module-9%20--React/12.React-Handson-12/ticketbookingapp/) | ![Output 1](Module-9%20--React/12.React-Handson-12/OutPut1.png)  |
+| 10 | **React Handson 13** — Blogger App — [src](Module-9%20--React/13.React-Handson-13/bloggerapp/) | ![Output 1](Module-9%20--React/13.React-Handson-13/Output1.png)  |
 
 ---
 
