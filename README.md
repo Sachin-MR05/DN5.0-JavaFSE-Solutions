@@ -110,8 +110,6 @@
 | 1 | **Handson 1** — Country CRUD (Spring Data JPA) | ![Output](Module-6/Exercise-1/Handson-1/Output.png) |
 | 2 | **Handson 5** — Country Service Implementation | ![Output](Module-6/Exercise-1/Handson-5/Output.png) |
 | 3 | **Handson 6** — Find Country with Exception Handling | ![Output](Module-6/Exercise-1/Handson-6/Output.png) |
-| 4 | **Handson 7** — Add Country | — |
-| 5 | **Exercise 2** — Additional JPA exercises | — |
 
 ---
 
